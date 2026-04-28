@@ -41,7 +41,8 @@ All steps follow a clean, reproducible, production-style workflow — from envir
 
 ---
 
-## ⚙️ **2.1 Create Project Environment**
+## ⚙️ **2.1 Create Project Environment
+**
 
 <pre style="background:#000; color:#0f0; padding:20px; border-radius:10px; font-size:15px;">
 mkdir tracking-pixel-soc-lab
