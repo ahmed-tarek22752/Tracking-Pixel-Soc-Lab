@@ -64,7 +64,7 @@ printf '\x47\x49\x46\x38\x39\x61\x01\x00\x01\x00\x80\x00\x00\x00\x00\x00\xFF\xFF
 
 ---
 
-## 📡 **2.3 Create Backend Telemetry Server (app.py)**  
+##  **2.3 Create Backend Telemetry Server (app.py)**  
 *This file logs email-open events & serves the pixel.*
 
 Create the file:
@@ -163,7 +163,7 @@ This confirms the telemetry workflow is fully operational.
 
 
 
-# 🎨 **2. Email Rendering Preview (Inline & Centered)**
+#  **2. Email Rendering Preview (Inline & Centered)**
 
 <p style="font-size:17px; color:#333; line-height:1.6;">
 Below is the exact HTML email as displayed locally before sending.  
