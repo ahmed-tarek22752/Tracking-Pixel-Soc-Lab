@@ -347,6 +347,7 @@ This project demonstrates the defensive perspective:
 - Working with JSONL pipelines  
 - Reproducing realistic corporate workflows  
 
+## Created by Ahmed Tarek Salah 
 
 ---
 
