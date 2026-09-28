@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-size:20px; color:#555; margin-top:-10px;">
-Advanced Blue Team Email Telemetry • Real Defensive Pipeline • Flask-based SOC Logging
+Advanced Blue Team Email Telemetry • Real Defensive Pipeline • Flask-based SOC Logging.
 </p>
 
 <p align="center">
